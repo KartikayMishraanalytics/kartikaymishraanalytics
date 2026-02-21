@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Kartikay Mishra
 
-<!--
-**KartikayMishraanalytics/kartikaymishraanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about turning raw data into meaningful insights and building real-world dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- 📊 Power BI, Excel, Statistics
+- 🗄 SQL, Data Cleaning
+- 🐍 Python (Pandas, NumPy, Matplotlib)
+- 🌐 HTML, CSS, JavaScript, Django
+- 💻 C, C++, Java, DSA Concepts
+
+---
+
+## 📈 Currently Working On
+- Real-world Data Analytics Projects  
+- Interactive Dashboard Development  
+- Strengthening SQL & Python skills  
+
+---
+
+## 🤝 Looking to Collaborate On
+- Data Analytics Projects  
+- Dashboard Projects  
+- Open-source beginner projects  
+
+---
+
+## 📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/kartikay-mishra-1952ba3b1
+
+---
+
+⭐ *Always learning. Always building.*
