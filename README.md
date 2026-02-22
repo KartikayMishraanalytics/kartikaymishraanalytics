@@ -16,38 +16,12 @@
 
 ## ⚙️ Tech Stack
 
-<p>
-
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-
-<br><br>
-
-<!-- Web Development -->
-<img src="https://skillicons.dev/icons?i=html,css,js,django" />
-<!-- Data & Analytics -->
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
-</a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" alt="Matplotlib"/>
-</a>
-<img src="https://img.shields.io/badge/Statistics-blue?style=for-the-badge" alt="Statistics"/>
-<img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge" alt="DSA"/>
-
-</p>
+**Programming:** Python, Java, C++, C  
+**Data Analytics:** Power BI, Excel, Statistics  
+**Libraries:** Pandas, NumPy, Matplotlib  
+**Database:** SQL  
+**Web Development:** HTML, CSS, JavaScript, Django  
+**Concepts:** Data Cleaning, Data Analysis, DSA
 ---
 
 ## 📊 Featured Projects
