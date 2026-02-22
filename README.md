@@ -16,12 +16,21 @@
 
 ## 🧠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,java,cpp,c,html,css,js,django&perline=5" />
-</p>
+## 🧠 Tech Stack
 
 <p align="center">
-📊 Power BI • Excel • Statistics • Pandas • NumPy • Matplotlib • DSA
+
+<img src="https://skillicons.dev/icons?i=python,mysql,java,cpp,c,html,css,js,django" /><br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge"/>
+
 </p>
 
 ---
