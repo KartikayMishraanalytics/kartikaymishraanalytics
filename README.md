@@ -25,9 +25,7 @@
 
 <!-- Web Development -->
 <img src="https://skillicons.dev/icons?i=html,css,js,django" />
-
-<br><br>
-
+<br>
 <!-- Data & Analytics -->
 <a href="https://powerbi.microsoft.com/" target="_blank">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
