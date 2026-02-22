@@ -18,18 +18,29 @@
 
 ## 🧠 Tech Stack
 
+## ⚙️ Tech Stack
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,java,cpp,c,html,css,js,django" /><br><br>
+<!-- Programming -->
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge"/>
+<br><br>
+
+<!-- Web -->
+<img src="https://skillicons.dev/icons?i=html,css,js,django" />
+
+<br><br>
+
+<!-- Data -->
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Statistics-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-orange?style=flat-square"/>
 
 </p>
 
