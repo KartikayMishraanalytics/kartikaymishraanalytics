@@ -16,7 +16,7 @@
 
 ## ⚙️ Tech Stack
 
-<p align="center">
+<p>
 
 <!-- Programming Languages -->
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
