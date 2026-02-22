@@ -21,7 +21,8 @@
 **Libraries:** Pandas, NumPy, Matplotlib  
 **Database:** SQL  
 **Web Development:** HTML, CSS, JavaScript, Django  
-**Concepts:** Data Cleaning, Data Analysis, DSA
+**Concepts:** Data Cleaning, Data Analysis, DSA  
+
 ---
 
 ## 📊 Featured Projects
